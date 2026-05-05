@@ -2,8 +2,8 @@
 Developed a machine learning model to detect fraudulent transactions.
 In today's world with rapid growth of digital transactions , scam has became the serious concern. 
 This project focuses on building a machine learning model that identifies where the transaction is fraud or not based on the financial data patterns.
-**
-Features:**
+
+**Features:**
 - Detects fradulent transactions using machine learning techniques.
 - Uses key features like transaction amount,and account balances.
 - Identifies pattern associated with high risk behavior.
